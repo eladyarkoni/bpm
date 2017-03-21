@@ -1,4 +1,11 @@
 # Bulk Process Manager
+
+<div align="center">
+    <a href="https://travis-ci.org/Unitech/pm2">
+        <img src="https://travis-ci.org/eladyarkoni/bpm.svg?branch=master" alt="Build Status"/>
+    </a>
+</div>
+
 **BPM is a Process manager for [nodejs](http://nodejs.org) projects**
 
 **Author: [Elad Yarkoni](http://eladyarkoni.com)**
