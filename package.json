@@ -1,0 +1,19 @@
+{
+  "name": "bulk-pm",
+  "preferGlobal": true,
+  "version": "1.0.0",
+  "description": "Bulk Process Manager For NodeJS Projects",
+  "scripts": {
+
+  },
+  "keywords": [
+    "NodeJS",
+    "Process",
+    "Manager",
+    "Production",
+    "Golang",
+    "LevelDB"
+  ],
+  "author": "Elad Yarkoni",
+  "license": "BSD-2-Clause"
+}
