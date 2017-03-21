@@ -1,0 +1,10 @@
+language: go
+
+go:
+  - 1.7.x
+  - master
+
+install:
+  - go get github.com/gorilla/mux
+  - go get github.com/hpcloud/tail
+  - go get github.com/syndtr/goleveldb/leveldb
