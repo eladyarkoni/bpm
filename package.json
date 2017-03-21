@@ -14,6 +14,10 @@
     "Golang",
     "LevelDB"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eladyarkoni/bpm.git"
+  },
   "author": "Elad Yarkoni",
   "license": "BSD-2-Clause"
 }
