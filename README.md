@@ -28,9 +28,8 @@ Any bpm command line will do the following:
 4. Prints the response to command line
 
 ## Install
-BPM is using [NPM](https://www.npmjs.com/) for the installation process.
 ```
-$ npm install bulk-pm -g
+$ go get -u github.com/eladyarkoni/bpm
 ```
 
 ## Usage
